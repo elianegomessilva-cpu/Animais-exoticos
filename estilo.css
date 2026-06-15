@@ -10,3 +10,8 @@ background-color: rgb(225, 254, 198);
 color: rgb(230, 108, 60);
 font-family: "Chelsea Market", system-ui;
 }
+.cabecalho{
+    text-align: center;
+    background-color: rgb(208, 255, 0);
+    padding: 30px;
+}
