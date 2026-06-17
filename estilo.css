@@ -15,3 +15,8 @@ font-family: "Chelsea Market", system-ui;
     background-color: rgb(247, 253, 163);
     padding: 30px;
 }
+
+main{
+    background-color: brown;
+    color: rgb(244, 170, 60);
+}
